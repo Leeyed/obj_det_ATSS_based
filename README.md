@@ -1,0 +1,2 @@
+# obj_det_ATSS_based
+以resnet34作为backbone，经过fpn进行目标检测，再接上回归分类head。 正负样本采用ATSS策略
